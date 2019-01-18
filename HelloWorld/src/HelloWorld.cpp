@@ -24,7 +24,7 @@ int main()
  * to begin compiling your program
  */
 {
-	cout << "Hello World!" << endl; // Prints Hello World to the screen to the standard output
+	cout << "Hello World!" << endl; // Prints Hello World to the screen to the standard output (ostream)
 	return 0;
 }
 
