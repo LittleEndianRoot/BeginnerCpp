@@ -1,4 +1,15 @@
-//Name			:HelloWorld.cpp
+/*
+ * ============================================================================
+ * Name        : HelloWorld.cpp
+ * Created on  : 18 Jan 2019
+ * Author      : endian
+ * Description : The very first program most people will write and compile.
+ * 				 The Hello World program has become a right of passage for beginners.
+ * 				 It is a good introduction, I included more information in the
+ * 				 comments for people who are interested. If not feel free to ignore.
+ *============================================================================
+ */
+
 #include <iostream>
 /*
  * Anything with a # prefixed is know as a pre-processor statement,

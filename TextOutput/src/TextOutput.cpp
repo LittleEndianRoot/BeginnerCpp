@@ -1,12 +1,16 @@
 /*
- * Name:			TextOutput.cpp
- *
- *  Created on: 18 Jan 2019
- *      Author: endian
- *
- *  A basic example of different ways to output text
- *  Demonstrate some basic formatting and control characters
+ * ============================================================================
+ * Name        : Variables.cpp
+ * Created on  : 18 Jan 2019
+ * Author      : endian
+ * Description : A basic introduction to displaying text to the screen, and
+ * 				 also different techniques for formatting that output using
+ * 				 escape characters. I have included a list of these String literal
+ * 				 escape characters at the bottom of the program for people who
+ * 				 want to know more.
+ *============================================================================
  */
+
 #include <iostream>
 
 using namespace std;

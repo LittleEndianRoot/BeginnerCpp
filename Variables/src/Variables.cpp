@@ -1,15 +1,17 @@
 /*
- * Name:			Variables.cpp
- *
- *  Created on: 18 Jan 2019
- *      Author: endian
- *  An short example of demonstrating variables, the general idea of them
- *  and how they work. I will go into detail about the different types
- *  of variables later. For now I will stick with integer values for this
- *  demonstration.
- *  Even further down the line I will go into all the arithmetic logic and
- *  the different operators used in that.
+ * ============================================================================
+ * Name        : Variables.cpp
+ * Created on  : 18 Jan 2019
+ * Author      : endian
+ * Description : A short example of demonstrating variables, the general idea of them
+ *               and how they work. I will go into detail about the different types
+ *               of variables later. For now I will stick with integer values for this
+ *               demonstration.
+ *               Even further down the line I will go into all the arithmetic logic and
+ *               the different operators used in that
+ *============================================================================
  */
+
 #include <iostream>
 
 using namespace std;
