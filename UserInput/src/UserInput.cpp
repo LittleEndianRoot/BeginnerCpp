@@ -14,8 +14,16 @@ using namespace std;
 int main()
 {
 	string fName;
+	/*
+	 * Create a string variable with no declared value, we can use this to store
+	 * a value we input later.
+	 */
 	cout << "Please enter your first name: " << flush;
 	cin >> fName;
+	/*
+	 * now we use cin to wait for input from the user, once the user hits the return
+	 * key, that string of text will be stored in our fName variable
+	 */
 
 	int age;
 	cout << "Please enter your age: " << flush;
