@@ -22,17 +22,25 @@ int main()
 	cin >> fName;
 	/*
 	 * now we use cin to wait for input from the user, once the user hits the return
-	 * key, that string of text will be stored in our fName variable
+	 * key, that string of text will be stored in our fName variable.
 	 */
 
 	int age;
+	/*
+	 * Like with strings, we can also story integer input form the user.
+	 * This variable here will store a whole number, in this case our age.
+	 */
 	cout << "Please enter your age: " << flush;
 	cin >> age;
 
 	cout << endl;
 
 	cout << "Name: " << fName << "\nAge: " <<  age << endl;
-
+	/*
+	 * We then output the values that have been stored in these variables.
+	 * You will see that the values the user has entered will be displayed in the
+	 * output in the format shown here.
+	 */
 
 	return 0;
 }
