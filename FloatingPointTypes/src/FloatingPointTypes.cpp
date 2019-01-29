@@ -13,7 +13,8 @@
 
 using namespace std;
 
-int main() {
+int main()
+{
 
 	float fValue = 123.4512378f;
 
