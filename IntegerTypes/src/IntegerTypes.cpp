@@ -21,7 +21,8 @@
 
 using namespace std;
 
-int main() {
+int main()
+{
 
 	//Regular int variable
 	int value = 54656;
