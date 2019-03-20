@@ -1,11 +1,10 @@
+# C++ TUTORIAL OVERVIEW
+
 These are the topics that will be covered in the beginner section
 I will update each section as I add new content to this repo.
 
-C++ TUTORIAL OVERVIEW
 
-#######################
-#BASICS AND BACKGROUND#
-#######################
+## 1. BASICS AND BACKGROUND
 
 - C++ Overview
 - C vs C++
@@ -17,9 +16,8 @@ C++ TUTORIAL OVERVIEW
 - Keywords
 - Operators
 
-#########################
-#FLOW CONTROL STATEMENTS#
-#########################
+
+## 2. FLOW CONTROL STATEMENTS
 
 - if-else
 - switch
@@ -31,32 +29,28 @@ C++ TUTORIAL OVERVIEW
 - Goto Statement
 - Comments
 
-###########
-#FUNCTIONS#
-###########
+
+## 3. FUNCTIONS
 
 - Functions
 - Call by value & reference
 - Recursion
 - Storage Classes
 
-########
-#ARRAYS#
-########
+
+## 4. ARRAYS
 
 - Arrays
 - Arrays to Functions
 - Multidimensional Arrays
 
-##########
-#POINTERS#
-##########
+
+## 5. POINTERS
 
 - Pointers
 
-######################
-#OOP AND OBJECT CLASS#
-######################
+
+## 6. OOP AND OBJECT CLASS
 
 - OOP Concepts
 - Object Class
@@ -70,70 +64,60 @@ C++ TUTORIAL OVERVIEW
 - Friend Function
 - Math Functions
 
-#############
-#INHERITANCE#
-#############
+
+## 7. INHERITANCE
 
 - Inheritance
 - Aggregatrion
 
-##############
-#POLYMORPHISM#
-##############
+
+## 8. POLYMORPHISM
 
 - Polymorphism
 - Overlaoding
 - Overriding
 - Virtual Functions
 
-#############
-#ABSTRACTION#
-#############
+
+## 9. ABSTRACTION
 
 - Interfaces
 - Data Abstraction
 
-############
-#NAMESPACES#
-############
+
+## 10. NAMESPACES
 
 - Namespaces
 
-#########
-#STRINGS#
-#########
+
+## 11. STRINGS
 
 - Strings
 
-############
-#EXCEPTIONS#
-############
+
+## 12. EXCEPTIONS
 
 - Exception Handling
 - try/catch
 - User-Defined
 
-###########
-#TEMPLATES#
-###########
+
+## 13. TEMPLATES
 
 - Templates
 
-################
-#SIGNAL HADLING#
-################
+
+## 14. SIGNAL HADLING
 
 - Signal Handling
 
-#################
-#FILE AND STREAM#
-#################
+
+## 15. FILE AND STREAM
 
 - File & Stream
 
-###########################
-#STANDARD TEMPLATE LIBRARY#
-###########################
+
+## 16. STANDARD TEMPLATE LIBRARY
 
 - STL Components
 - Vector
@@ -148,9 +132,8 @@ C++ TUTORIAL OVERVIEW
 - Bitset
 - Algorithm
 
-###########
-#ITERATORS#
-###########
+
+## 17. ITERATORS
 
 - Iterators
 - Bidirectional Iterator
