@@ -1,6 +1,6 @@
 # C++ TUTORIAL OVERVIEW
 
-These are the topics that will be covered in the beginner section
+These are the topics that will be covered in the beginner section,
 I will update each section as I add new content to this repo.
 
 
